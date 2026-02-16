@@ -1,0 +1,6 @@
+* Generate a automatic whatsapp send reply on birthdays
+* Download all repos or clone everything inside a folder
+* Guru ji app where we can call every indian priest and show their biography or the history they have done 
+* Only indian products market 
+* A mini clip game 
+* 
