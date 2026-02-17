@@ -1,3 +1,9 @@
 * Kafka generate some stream of data , and complete the full ETL
 * OOps in Python , complete breakdown and understanding 
 * Data engineering complete roadmap , spark understanding and how it works under the hood
+
+
+
+
+TO DO VERY LATER 
+# Chrome extensions creation /build 
