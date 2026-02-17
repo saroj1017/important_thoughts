@@ -1,0 +1,12 @@
+job portals global :
+Linkedin
+
+job portals india:
+naukri 
+indeed
+
+
+Remote jobs:
+
+Freelancing :
+Fiverr
